@@ -1,4 +1,4 @@
-name: Build and Publish Distroless cnvkit
+name: Build and Publish cnvkit
 
 on:
   push:

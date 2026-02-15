@@ -1,5 +1,5 @@
 # cnvkit
-Small, distroless-when-possible container for `cnvkit`.
+Small compatibility-focused container for `cnvkit`.
 
 ## how to use
 ```bash
