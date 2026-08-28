@@ -1,6 +1,6 @@
 FROM ubuntu:22.04 AS builder
 
-ARG CNVKIT_REF=v0.9.13
+ARG CNVKIT_REF=v0.9.14
 
 ENV DEBIAN_FRONTEND=noninteractive
 
